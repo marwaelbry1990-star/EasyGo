@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elegant-boba-cf687c.netlify.app/sitemap.xml
